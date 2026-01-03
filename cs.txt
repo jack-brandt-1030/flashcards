@@ -1,0 +1,65 @@
+* Search Algorithms
+linear search - a search algorithm that involves looking at each item in order
+binary search - a search algorithm that requires a sorted list, and searches left or right based on value
+binary search is _ than linear search - faster
+binary search requires a _ _ - sorted list
+
+* Sort Algorithms
+this is an algorithm that rearranges item in a list - sorting algorithm
+insertion sort - this is the basic sorting algorithm, which involves building a subarray and adding to it one at a time
+merge sort - this is the divide and conquer algorithm, which repeatedly breaks down a list, and then zips it back together
+there are more _ algorithms than _ algorithms - more sorting than searching
+
+* Data Structures
+this is a data structure that holds values wihout order - set
+this is a data structure that holds key value pairs - map/dictionary
+checking membership in a set is _ - fast
+this is a data structure that typically manages temporary data - stack (think a stack of plates)
+LIFO stands for - last-in, first-out (this describes the behavior of a stack)
+this data structure is like a row of cubbies - array
+tree - this is a hierarchical graph without cycles
+
+* Data Types
+these two types in Java are for fractional numbers - float/double
+"float" refers to _ _ - floating point
+this is like the atom in CS - bit (0 or 1)
+this is eight bits - byte
+this refers to converting from one type to another - casting
+
+* Design
+"is a" relationship - this refers to when one class inherits from another ("cat is an animal")
+"has a" relationship - this refers to when something is a field on something else ("Cat.Family .. cat has a family")
+interface - in object oriented programming, this is like a blueprint for classes that inherit from it
+inheritance - this refers to creating a class that uses code from an existing class
+this is essentially a bag of data - object (which itself is an instance of a class)
+class - a user-defined data type
+this is a popular program structure - client, server, database (client .. the visual side, database .. the information you use, server .. interacts with both client and db)
+override - this means changing an inherited function
+overload - this means there are multiple ways to call a function
+
+* Data
+db typically stands for - database
+databases generally come in two types - relational and non-relational
+relational databases can be manipulated using - SQL (search query language, pronounced sequel)
+data is typically stored in - tables (a bunch of rows and columns)
+one to many relationship - when a row in one table is referenced by many rows in other tables
+primary key - this column uniquely identifies rows in a table (think SSN or student id)
+
+* Complexity
+big O refers to - complexity/efficiency of an algorithm (worst case scenario)
+complexity can be broken down into - time complexity ("how much extra time does this take?") and space complexity ("how much extra space does this use?")
+compiling - this is when the computer turns human-readable code into machine-readable code
+pep 9 - a computer architecture and assembly language used for teaching
+
+* Misc
+these are popular programming languages - python, java, javascript, C
+git and github assist _ - version control (controlling what versions of what files get used in what version of the product)
+errors can be categorized into these two groups - run-time (they occur when the program is running) and design-time (they occur when you are writing code, ie, syntax errors)
+IDE stands for - integrated development environment
+syntax highlighting - this is the coloring of particular elements of code for easier reading
+OOP stands for - object oriented programming
+garbage collection - this refers to how some programming languages 'free' formerly used sections in memory
+local variable - a variable specific to a particular function or piece of code
+library - this refers to a bunch of code in a folder or folders that you or other people can use
+front-end - this refers to the visual or user-facing side of a program
+back-end - this refers to the database side of a program
